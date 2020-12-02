@@ -1,2 +1,2 @@
 # kott
-A tool for contest of thread titles.
+ニュース速報VIPコテ雑における「キングオブコテ雑」の補助ツールです。
